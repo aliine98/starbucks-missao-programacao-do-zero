@@ -24,6 +24,7 @@ body {
 .caixa-texto {
    width: 600px;
    margin-top: 4rem;
+   mix-blend-mode: hard-light;
 }
 
 .caixa-texto h2 {
@@ -36,6 +37,7 @@ body {
    color: var(--green);
    font-size: 70px;
    font-weight: 900;
+   -webkit-text-stroke: 0.5px white;
 }
 
 .caixa-texto p {
@@ -44,7 +46,7 @@ body {
 
 .caixa-texto button {
    background: var(--green);
-   border: none;
+   border: 0.5px solid white;
    border-radius: 40px;
    color: #fff;
    cursor: pointer;
