@@ -1,10 +1,21 @@
 # ![Banner](https://user-images.githubusercontent.com/90913523/228399982-4bc409eb-66c8-43c2-aa07-e2ddc482a384.png)
 
 <p align="center">
+  <a href="https://www.codefactor.io/repository/github/aliine98/starbucks-missao-programacao-do-zero/overview/main"><img src="https://www.codefactor.io/repository/github/aliine98/starbucks-missao-programacao-do-zero/badge/main" alt="CodeFactor" /></a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Aliine98/starbucks-missao-programacao-do-zero?style=flat">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Aliine98/starbucks-missao-programacao-do-zero?color=magenta&style=flat">
-  <a href="https://www.linkedin.com/in/aline-bevilacqua/"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Conecte-se&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faline-bevilacqua%2F"></a>
+  <a href="https://www.linkedin.com/in/aline-bevilacqua/"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Conecte-se comigo&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faline-bevilacqua%2F"></a>
 </p>
+
+> Table of Contents
+> <ul>
+>   <li><a href="#-sobre-o-projeto">Sobre</a></li>
+>   <li><a href="#-screenshots">Screenshots</a></li>
+>   <li><a href="#-tecnologias">Tecnologias</a></li>
+>   <li><a href="#-rodando-localmente">Rodando localmente</a></li>
+>   <li><a href="#-como-contribuir-para-o-projeto">Como contribuir para o projeto</a></li>
+>   <li><a href="#-licença">Licença</a></li>
+> </ul>
 
 ## 💻 Sobre o projeto
 
